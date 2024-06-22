@@ -1,1 +1,2 @@
 # skincancerwebsite
+model file=https://drive.google.com/file/d/1-AygxVHC7GTJ1ugGQt1OCZcj50j0xJSv/view?usp=drive_link
