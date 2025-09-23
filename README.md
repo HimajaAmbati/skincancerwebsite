@@ -1,2 +1,23 @@
-# skincancerwebsite
-model file=https://drive.google.com/file/d/1-AygxVHC7GTJ1ugGQt1OCZcj50j0xJSv/view?usp=drive_link
+## **2️⃣ Skin Cancer Website (Frontend/Deployment Project)**
+
+```markdown
+# Skin Cancer Awareness & Detection Website
+
+A simple and interactive website to provide information about skin cancer and integrate AI-based detection.
+
+---
+
+## 🌐 Project Overview
+This website is designed to **educate users about skin cancer** and provide a platform to analyze skin lesion images (when connected to ML backend). Users can:
+
+- Learn about types and symptoms of skin cancer
+- Upload images for analysis (optional AI model integration)
+- Access prevention tips and healthcare guidance
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** Tailwind CSS (for styling)  
+
+
